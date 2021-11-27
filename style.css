@@ -149,7 +149,7 @@ button.delete img:hover {
 }
 
 /* Completed */
-ul#completed-tasks label {
+#completed-tasks label {
   text-decoration: line-through;
   color: #888;
 }
@@ -164,6 +164,6 @@ ul li .field {
   width: 224px
 }
 
-ul li.edit-mode label {
+.edit-mode label {
   display: none;
 }
