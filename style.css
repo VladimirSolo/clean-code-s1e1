@@ -1,45 +1,45 @@
 /* Basic Style */
 body {
-    background-color: #f8f8f8;
-    color: #333;
-    font-family: Lato, sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+  font-family: Lato, sans-serif;
 }
 
 .header {
-    width: 500px;
-    margin: 0 auto;
-    display: block;
-    text-align: right;
+  width: 500px;
+  margin: 0 auto;
+  display: block;
+  text-align: right;
 }
 
 .header img {
-    width: 100%;
+  width: 100%;
 }
 
 .header_inf {
-    font-family: fantasy, cursive;
+  font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-    .header {
-        text-align: center;
+  .header {
+    text-align: center;
     }
 }
 
 .centered-main-page-element {
-    display: block;
-    width: 500px;
-    margin: 0 auto 0;
+  display: block;
+  width: 500px;
+  margin: 0 auto 0;
 }
 
 .task {
-    width: 56%;
-    display: inline-block;
-    flex-grow: 1
+  width: 56%;
+  display: inline-block;
+  flex-grow: 1
 }
 
 .task-row-wrapper {
-    display: flex;
+  display: flex;
 }
 
 ul {
