@@ -64,7 +64,6 @@ button {
   color: #888;
   font-size: 15px;
   width: 60px;
-  font-family: Lato, sans-serif;
   cursor: pointer;
 }
 
@@ -93,7 +92,6 @@ label[for='new-task'] {
   border: 1px solid #dDd;
   background: #FFF;
   border-radius: 6px;
-  font-family: Lato, sans-serif;
   color: #888;
 }
 
